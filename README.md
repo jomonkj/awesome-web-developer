@@ -1,11 +1,11 @@
 # Awesome Web Developer
 collection of awesome links for a  webdeveloper
 
-* https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
+* (RESTful API Designing guidelines — The best practices)[https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9]
 
 ## html
 
-* http://htmlcsstherightway.org/
+* (HTML & CSS The Right Way)[http://htmlcsstherightway.org/]
 
 ## css
 
